@@ -74,7 +74,7 @@ The final GWO configuration converged after 5 iterations, achieving stable macro
 | ![Precision Recall](./Output/abtm_light_gwo/abtm_light_gwo_precision_recall_gwo.png) | Precision-Recall curves per class                |
 | ![Ablation](./Output/abtm_light_gwo/abtm_light_gwo_ablation_summary.png)             | Ablation study summary table                     |
 | ![Per-Class Ablation](./Output/abtm_light_gwo/abtm_light_gwo_per_class_ablation.png) | Per-class ablation comparison                    |
-| ![Final Results](./Output/abtm_light_gwo/abtm_light_gwo_final_results.png)           | Final results table                              |
+| ![Final Results](./Output/final_result.png)                                          | Final results table                              |
 
 ---
 
